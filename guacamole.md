@@ -1,6 +1,6 @@
 #Guacamole
 * avacado
-* lemon
+* lime
 * salt
 
 ##Ingredients
